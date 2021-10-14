@@ -1,0 +1,45 @@
+.game .casa {
+    height: 120px;
+    width: 120px;
+
+    /* border: 1px solid black; */
+}
+
+.game #casa1 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.game #casa2 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.game #casa3 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.game #casa4 {
+    border-right: 1px solid black;
+}
+
+.game #casa6 {
+    border-left: 1px solid black;
+}
+
+.game #casa7 {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.game #casa8 {
+    border-top: 1px solid black;
+}
+
+.game #casa9 {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
